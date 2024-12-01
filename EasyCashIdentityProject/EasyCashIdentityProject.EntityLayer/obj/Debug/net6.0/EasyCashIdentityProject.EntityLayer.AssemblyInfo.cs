@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyCashIdentityProject.EntityLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e90184dcf4c988c4ef7fb34a2a3ba50f410cef3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2798c7b104c44aba168c8187987bd9c97dd5ecdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyCashIdentityProject.EntityLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyCashIdentityProject.EntityLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

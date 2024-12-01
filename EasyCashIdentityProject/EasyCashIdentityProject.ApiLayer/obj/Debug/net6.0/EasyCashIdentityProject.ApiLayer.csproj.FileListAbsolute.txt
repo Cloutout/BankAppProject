@@ -1,0 +1,15 @@
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\bin\Debug\net6.0\EasyCashIdentityProject.ApiLayer.deps.json
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\bin\Debug\net6.0\EasyCashIdentityProject.ApiLayer.runtimeconfig.json
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\bin\Debug\net6.0\EasyCashIdentityProject.ApiLayer.dll
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\bin\Debug\net6.0\EasyCashIdentityProject.ApiLayer.pdb
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\obj\Debug\net6.0\EasyCashIdentityProject.ApiLayer.csproj.AssemblyReference.cache
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\obj\Debug\net6.0\EasyCashIdentityProject.ApiLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\obj\Debug\net6.0\EasyCashIdentityProject.ApiLayer.AssemblyInfoInputs.cache
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\obj\Debug\net6.0\EasyCashIdentityProject.ApiLayer.AssemblyInfo.cs
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\obj\Debug\net6.0\EasyCashIdentityProject.ApiLayer.csproj.CoreCompileInputs.cache
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\obj\Debug\net6.0\EasyCashIdentityProject.ApiLayer.sourcelink.json
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\obj\Debug\net6.0\EasyCashIdentityProject.ApiLayer.dll
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\obj\Debug\net6.0\refint\EasyCashIdentityProject.ApiLayer.dll
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\obj\Debug\net6.0\EasyCashIdentityProject.ApiLayer.pdb
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\obj\Debug\net6.0\EasyCashIdentityProject.ApiLayer.genruntimeconfig.cache
+C:\Users\merti\OneDrive\Masaüstü\BankAppProject\EasyCashIdentityProject\EasyCashIdentityProject.ApiLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.ApiLayer.dll
