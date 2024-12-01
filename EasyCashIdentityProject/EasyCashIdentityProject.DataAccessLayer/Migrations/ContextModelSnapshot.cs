@@ -47,7 +47,7 @@ namespace EasyCashIdentityProject.DataAccessLayer.Migrations
 
                     b.HasKey("CustomerAccountID");
 
-                    b.ToTable("CustomerAccounts");
+                    b.ToTable("CustomerAccounts", (string)null);
                 });
 
             modelBuilder.Entity("EasyCashIdentityProject.EntityLayer.Concrete.CustomerAccountProcess", b =>
@@ -70,7 +70,7 @@ namespace EasyCashIdentityProject.DataAccessLayer.Migrations
 
                     b.HasKey("CustomerAccountProcessID");
 
-                    b.ToTable("CustomerAccountProcesses");
+                    b.ToTable("CustomerAccountProcesses", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>

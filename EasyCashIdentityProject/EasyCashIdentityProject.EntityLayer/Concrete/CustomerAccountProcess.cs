@@ -10,9 +10,9 @@ namespace EasyCashIdentityProject.EntityLayer.Concrete
     public class CustomerAccountProcess
     {
         public int CustomerAccountProcessID { get; set; }
-        public string ProcessType { get; set; }
-        public decimal ProcessAmount { get; set; }
-        public DateTime ProcessDate { get; set; }
+        public string CustomerAccountProcessProcessType { get; set; }
+        public decimal CustomerAccountProcessProcessAmount { get; set; }
+        public DateTime CustomerAccountProcessProcessDate { get; set; }
 
 
     }
