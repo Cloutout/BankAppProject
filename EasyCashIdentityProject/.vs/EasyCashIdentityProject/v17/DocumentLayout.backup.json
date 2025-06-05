@@ -3,27 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\merti\\OneDrive\\Masa\u00FCst\u00FC\\BankAppProject\\EasyCashIdentityProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81F65C4E-922A-4900-9D9A-1908973F8C6E}|EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj|c:\\users\\merti\\onedrive\\masa\u00FCst\u00FC\\bankappproject\\easycashidentityproject\\easycashidentityproject.entitylayer\\concrete\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81F65C4E-922A-4900-9D9A-1908973F8C6E}|EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj|solutionrelative:easycashidentityproject.entitylayer\\concrete\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81F65C4E-922A-4900-9D9A-1908973F8C6E}|EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj|c:\\users\\merti\\onedrive\\masa\u00FCst\u00FC\\bankappproject\\easycashidentityproject\\easycashidentityproject.entitylayer\\concrete\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81F65C4E-922A-4900-9D9A-1908973F8C6E}|EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj|solutionrelative:easycashidentityproject.entitylayer\\concrete\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81F65C4E-922A-4900-9D9A-1908973F8C6E}|EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj|c:\\users\\merti\\onedrive\\masa\u00FCst\u00FC\\bankappproject\\easycashidentityproject\\easycashidentityproject.entitylayer\\concrete\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81F65C4E-922A-4900-9D9A-1908973F8C6E}|EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj|solutionrelative:easycashidentityproject.entitylayer\\concrete\\customeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81F65C4E-922A-4900-9D9A-1908973F8C6E}|EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj|c:\\users\\merti\\onedrive\\masa\u00FCst\u00FC\\bankappproject\\easycashidentityproject\\easycashidentityproject.entitylayer\\concrete\\customeraccountprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81F65C4E-922A-4900-9D9A-1908973F8C6E}|EasyCashIdentityProject.EntityLayer\\EasyCashIdentityProject.EntityLayer.csproj|solutionrelative:easycashidentityproject.entitylayer\\concrete\\customeraccountprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{853E6791-2901-4517-92AF-9BB11B421099}|EasyCashIdentityProject.DataAccessLayer\\EasyCashIdentityProject.DataAccessLayer.csproj|c:\\users\\merti\\onedrive\\masa\u00FCst\u00FC\\bankappproject\\easycashidentityproject\\easycashidentityproject.dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853E6791-2901-4517-92AF-9BB11B421099}|EasyCashIdentityProject.DataAccessLayer\\EasyCashIdentityProject.DataAccessLayer.csproj|solutionrelative:easycashidentityproject.dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,76 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAKATAAAAAAAAAAAnwKoTAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-12-01T19:18:41.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerAccountProcess.cs",
-              "DocumentMoniker": "C:\\Users\\merti\\OneDrive\\Masa\u00FCst\u00FC\\BankAppProject\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\Concrete\\CustomerAccountProcess.cs",
-              "RelativeDocumentMoniker": "EasyCashIdentityProject.EntityLayer\\Concrete\\CustomerAccountProcess.cs",
-              "ToolTip": "C:\\Users\\merti\\OneDrive\\Masa\u00FCst\u00FC\\BankAppProject\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\Concrete\\CustomerAccountProcess.cs",
-              "RelativeToolTip": "EasyCashIdentityProject.EntityLayer\\Concrete\\CustomerAccountProcess.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:01:35.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\merti\\OneDrive\\Masa\u00FCst\u00FC\\BankAppProject\\EasyCashIdentityProject\\EasyCashIdentityProject.DataAccessLayer\\Concrete\\Context.cs",
-              "RelativeDocumentMoniker": "EasyCashIdentityProject.DataAccessLayer\\Concrete\\Context.cs",
-              "ToolTip": "C:\\Users\\merti\\OneDrive\\Masa\u00FCst\u00FC\\BankAppProject\\EasyCashIdentityProject\\EasyCashIdentityProject.DataAccessLayer\\Concrete\\Context.cs",
-              "RelativeToolTip": "EasyCashIdentityProject.DataAccessLayer\\Concrete\\Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T18:57:13.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "CustomerAccount.cs",
               "DocumentMoniker": "C:\\Users\\merti\\OneDrive\\Masa\u00FCst\u00FC\\BankAppProject\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\Concrete\\CustomerAccount.cs",
               "RelativeDocumentMoniker": "EasyCashIdentityProject.EntityLayer\\Concrete\\CustomerAccount.cs",
               "ToolTip": "C:\\Users\\merti\\OneDrive\\Masa\u00FCst\u00FC\\BankAppProject\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\Concrete\\CustomerAccount.cs",
               "RelativeToolTip": "EasyCashIdentityProject.EntityLayer\\Concrete\\CustomerAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T18:55:29.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppRole.cs",
-              "DocumentMoniker": "C:\\Users\\merti\\OneDrive\\Masa\u00FCst\u00FC\\BankAppProject\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\Concrete\\AppRole.cs",
-              "RelativeDocumentMoniker": "EasyCashIdentityProject.EntityLayer\\Concrete\\AppRole.cs",
-              "ToolTip": "C:\\Users\\merti\\OneDrive\\Masa\u00FCst\u00FC\\BankAppProject\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\Concrete\\AppRole.cs",
-              "RelativeToolTip": "EasyCashIdentityProject.EntityLayer\\Concrete\\AppRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T18:54:04.646Z",
+              "WhenOpened": "2024-12-03T17:58:11.037Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\merti\\OneDrive\\Masa\u00FCst\u00FC\\BankAppProject\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\Concrete\\AppUser.cs",
-              "RelativeDocumentMoniker": "EasyCashIdentityProject.EntityLayer\\Concrete\\AppUser.cs",
-              "ToolTip": "C:\\Users\\merti\\OneDrive\\Masa\u00FCst\u00FC\\BankAppProject\\EasyCashIdentityProject\\EasyCashIdentityProject.EntityLayer\\Concrete\\AppUser.cs",
-              "RelativeToolTip": "EasyCashIdentityProject.EntityLayer\\Concrete\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T18:53:54.31Z"
             }
           ]
         }
